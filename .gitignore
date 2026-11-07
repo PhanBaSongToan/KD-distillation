@@ -1,0 +1,4 @@
+.deck-build/
+.chart-data-*/
+build_potato_kd_deck.mjs
+finalize_potato_kd_deck.mjs
